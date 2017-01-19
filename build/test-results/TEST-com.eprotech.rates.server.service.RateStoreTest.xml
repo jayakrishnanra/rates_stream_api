@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.eprotech.rates.server.service.RateStoreTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2016-11-26T19:19:51" hostname="merc" time="0.051">
+  <properties/>
+  <testcase name="put" classname="com.eprotech.rates.server.service.RateStoreTest" time="0.051"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

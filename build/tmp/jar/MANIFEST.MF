@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Implementation-Title: rates_stream_api
+Implementation-Version: 1.0-SNAPSHOT
+Main-Class: com.eprotech.rates.server.Main
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.eprotech.rates.server.service.OandaSubscribeServiceTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2016-11-26T19:19:51" hostname="merc" time="0.131">
+  <properties/>
+  <testcase name="testSubscribe" classname="com.eprotech.rates.server.service.OandaSubscribeServiceTest" time="0.131"/>
+  <system-out><![CDATA[ConnectionManagerThread: started Test worker
+run: ConnectionManagerThread Thread-4
+Sleeping connection manager for 10
+2016-11-26 19:19:51 INFO  OandaSubscribeService:27 - subscribe [GBP_USD,EUR_USD]
+register: RATES
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

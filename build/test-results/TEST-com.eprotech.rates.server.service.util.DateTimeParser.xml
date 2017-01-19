@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.eprotech.rates.server.service.util.DateTimeParser" tests="1" skipped="0" failures="0" errors="0" timestamp="2016-11-26T19:19:51" hostname="merc" time="0.021">
+  <properties/>
+  <testcase name="test" classname="com.eprotech.rates.server.service.util.DateTimeParser" time="0.021"/>
+  <system-out><![CDATA[Thread sleep interrupted(don't care, could be a trigger to restart - java.lang.InterruptedException: sleep interrupted
+Sleeping connection manager for 10
+run: RateSubscriptionTask Thread-5
+1471819080000
+1480187991364
+1480187991365
+-8368911365
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
